@@ -1,0 +1,11 @@
+﻿<Application x:Class="ProjectForYP.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ProjectForYP"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="Grid">
+            <Setter Property="Background" Value="White"/>
+        </Style>
+    </Application.Resources>
+</Application>
