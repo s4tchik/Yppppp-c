@@ -9,7 +9,7 @@
         WindowStartupLocation="CenterScreen"
         Height="450" Width="800">
     <Grid>
-        <StackPanel>
+        <StackPanel> 
             <Frame x:Name="MainFrm" 
                NavigationUIVisibility="Hidden"
                />
